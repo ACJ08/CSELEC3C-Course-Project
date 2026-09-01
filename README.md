@@ -1,6 +1,8 @@
 # CSELEC3C-Course-Project
 Alright we're starting our DataViz Project. I'll experiment the datasets in this repo, more updates to come.
 
+<img src="./flowfree.png" alt="Flow pic" width="100%">
+
 | Dataset Name | Code |
 | :--- | :--- |
 | Access to Electricity | EG.ELC.ACCS.ZS |
